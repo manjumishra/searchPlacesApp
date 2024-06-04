@@ -13,8 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-# IF you will get error after enter in the input field then build the project and run the command given below
+## IF you will get error after enter in the input field then build the project and run the command given below
 ## `npm run build`
+
 
 ### `npm test`
 
