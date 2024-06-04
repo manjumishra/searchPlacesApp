@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# First open git bash and clone the code
+### First open git bash and clone the code
 For this need to run the command
 ### `git clone repo' HTTPS address`
 
