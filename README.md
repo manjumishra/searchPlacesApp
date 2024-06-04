@@ -2,7 +2,7 @@
 
 ### First open git bash and clone the code
 For this need to run the command
-### `git clone repo' HTTPS address`
+### `git clone https://github.com/manjumishra/searchPlacesApp.git`
 
 # After that go to the code and run 
 using this command
